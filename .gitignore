@@ -6,3 +6,6 @@ node_modules
 .DS_Store
 \.settings/
 src/config/env.js
+.idea
+/.idea/*
+iview-admin.iml
